@@ -23,7 +23,7 @@ Make your dream PC a reality now !!!.
     or
     Extract the tar files 
     ```bash
-    tar -czvf 24M0742_hw10.tar.gz
+    tar -xzvf 24M0742_hw10.tar.gz
     ```
 2. Navigate to the project directory:
     ```bash
