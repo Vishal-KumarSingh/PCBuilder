@@ -18,13 +18,12 @@ Make your dream PC a reality now !!!.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vishal-KumarSingh/PCBuilder.git
+    git clone https://github.com/yourusername/pcbuilder.git
     ```
     or
-
-.  Extract the tar file:
+    Extract the tar files 
     ```bash
-    tar -xzvf 24M0742_hw10.tar.gz
+    tar -czvf 24M0742_hw10.tar.gz
     ```
 2. Navigate to the project directory:
     ```bash
@@ -38,8 +37,15 @@ Make your dream PC a reality now !!!.
     ```bash
     flask run --app server
     ```
-
+    or
+    Simply run the python file
+      ```bash
+        python3 server.py
+      ```
+   
+ 
 5. Open in Browser:
     
     Click on the link after running flask run http://localhost:5000/ to view the application.
+
 
